@@ -1,0 +1,13 @@
+
+.nav-link-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    color: #555;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+}

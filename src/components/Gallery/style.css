@@ -1,0 +1,32 @@
+
+.result-item {
+    position: relative;
+    padding: 15px;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    height: 200px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px #898989;
+    border: 1px solid #898989;
+    object-fit: cover;
+}
+
+.image-username {
+    color: #ff7f58;
+    font-size: 18px;
+    position: absolute;
+    bottom: 7px;
+    right: 15px;
+    background-color: rgba(0,0,0, 0.6);
+    padding: 5px 10px;
+}
+
+.image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 100%;
+}
